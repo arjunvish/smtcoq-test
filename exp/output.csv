@@ -1,0 +1,14 @@
+Filename, Result-Old, Proof-Old, Result-New, Proof-New
+./Green_veriT/x2020_07_28_19_01_13_405_7253502.smt_in,unknown,Failure,unknown,Failure
+./isabelle-mirabelle/BO_cvc42/x2020_08_03_14_22_53_989_4243460.smt_in,unknown,Failure,unknown,Failure
+./isabelle-mirabelle/BO_cvc42/x2020_08_03_15_01_02_583_5399670.smt_in,unknown,Failure,unknown,Failure
+./isabelle-mirabelle/BO_cvc42/x2020_08_03_14_21_12_935_4437912.smt_in,unknown,Failure,unknown,Failure
+./isabelle-mirabelle/Green_cvc42/x2020_07_31_08_12_16_842_6598996.smt_in,unsat,Success,unsat,Success
+./isabelle-mirabelle/Green_cvc42/x2020_07_31_08_12_11_455_6594276.smt_in,unsat,Success,unsat,Success
+./isabelle-mirabelle/Green_cvc42/x2020_07_31_07_57_48_042_7077344.smt_in,unsat,Success,unsat,Success
+./isabelle-mirabelle/Green_veriT2/x2020_07_31_07_17_57_376_6876976.smt_in,unsat,Success,unsat,Success
+./isabelle-mirabelle/Green_veriT2/x2020_07_31_07_23_02_117_6818144.smt_in,unsat,Success,unsat,Success
+./isabelle-mirabelle/Green_veriT2/x2020_07_31_07_32_12_685_6511364.smt_in,unsat,Success,unsat,Success
+./Ordered_Resolution_Prover_veriT/x2020_07_28_19_06_35_564_5408506.smt_in,unsat,Success,unsat,Success
+./Ordered_Resolution_Prover_veriT/Mirabelle_z3/x2020_07_28_19_00_52_304_6446914.smt_in,unsat,Success,unsat,Success
+./test.smt_in,unknown,Failure,sat,Failure
